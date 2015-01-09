@@ -1,0 +1,67 @@
+#header {
+  max-height: 1000px;
+  max-width: 1500px;
+  background:linear-gradient(rgba(17, 117, 192, 0.75), rgba(17, 117, 192, 0.75)), url("./2.5.png");
+  position: center center;
+  color: #FFFFFF;
+  background:
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 517px;
+    text-align: center;
+  }
+}
+
+#hdrtitle {
+  text-align: center;
+  vertical-align: center;
+}
+
+#hdrsub {
+  text-align: center;
+}
+
+#bodyp1 {
+  text-align: left;
+}
+
+#rmargvline {
+  max-height: 150px;
+  width: 2px;
+  background-color: #021729;
+}
+
+#bodyp1 {
+  text-align: center;
+}
+
+#radhdr {
+  text-align: center;
+}
+
+#bottomhdr {
+  text-align: center;
+}
+
+/*.main {	float:left;
+  margin: 63px 0 0 0;
+  padding: 0 80px 69px 0;
+  width: 618px;
+  font-weight: 200;
+}
+
+/*.main2 {
+  float:left;
+  margin: 63px 0 0 0;
+  padding: 0 80px 69px 0;
+  width: 618px;
+  font-weight: 200;
+}
+
+.side {
+  float: right;
+  margin: 50px 0px 0px;
+  padding: 0px;
+  width: 278px;
+}
+*/
